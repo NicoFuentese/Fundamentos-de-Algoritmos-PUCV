@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.ope('images.py/p2.3.png')
+img = Image.open('images.py/p2.3.png')
 img.show()
 
 #resolucion
